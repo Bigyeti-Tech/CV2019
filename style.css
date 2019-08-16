@@ -58,13 +58,17 @@ li>strong {
   padding: 0;
 }
 
-.portrait {
 
-}
 
 .main {
   /*left: 700px;*/
   padding-left: 20px;
   padding-top: 70px;
   /*display: inline-block;*/
+}
+
+thead {
+  text-align: center;
+  border-bottom: 1px dotted white;
+  font-weight: bold
 }
